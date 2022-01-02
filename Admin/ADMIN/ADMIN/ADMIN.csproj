@@ -96,6 +96,12 @@
     <Compile Include="QuanLyNhanVien_ADMIN.Designer.cs">
       <DependentUpon>QuanLyNhanVien_ADMIN.cs</DependentUpon>
     </Compile>
+    <Compile Include="QuanLy_DVVC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QuanLy_DVVC.Designer.cs">
+      <DependentUpon>QuanLy_DVVC.cs</DependentUpon>
+    </Compile>
     <Compile Include="SanPham.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -134,6 +140,9 @@
     </Compile>
     <EmbeddedResource Include="QuanLyNhanVien_ADMIN.resx">
       <DependentUpon>QuanLyNhanVien_ADMIN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QuanLy_DVVC.resx">
+      <DependentUpon>QuanLy_DVVC.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="SanPham.resx">
       <DependentUpon>SanPham.cs</DependentUpon>

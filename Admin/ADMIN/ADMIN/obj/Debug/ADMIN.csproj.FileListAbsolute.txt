@@ -16,3 +16,4 @@ D:\Microsoft SQL studio\Bai Tap\GiaoDien CSDLNC\Admin\ADMIN\ADMIN\obj\Debug\ADMI
 D:\Microsoft SQL studio\Bai Tap\GiaoDien CSDLNC\Admin\ADMIN\ADMIN\obj\Debug\ADMIN.NhaKho.resources
 D:\Microsoft SQL studio\Bai Tap\GiaoDien CSDLNC\Admin\ADMIN\ADMIN\obj\Debug\ADMIN.Kho_DoiTac.resources
 D:\Microsoft SQL studio\Bai Tap\GiaoDien CSDLNC\Admin\ADMIN\ADMIN\obj\Debug\ADMIN.Kho_ChiNhanh.resources
+D:\Microsoft SQL studio\Bai Tap\GiaoDien CSDLNC\Admin\ADMIN\ADMIN\obj\Debug\ADMIN.QuanLy_DVVC.resources

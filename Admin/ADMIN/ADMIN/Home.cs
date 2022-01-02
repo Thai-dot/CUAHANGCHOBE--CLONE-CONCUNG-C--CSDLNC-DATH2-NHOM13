@@ -51,5 +51,12 @@ namespace ADMIN
             NhaKho nk = new NhaKho();
             nk.Show();
         }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            QuanLy_DVVC ql = new QuanLy_DVVC();
+            ql.Show();
+        }
     }
 }
