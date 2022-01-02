@@ -1,0 +1,17 @@
+D:\Microsoft SQL studio\Bai Tap\GiaoDien CSDLNC\Customer\Customer\Customer\bin\Debug\Customer.exe.config
+D:\Microsoft SQL studio\Bai Tap\GiaoDien CSDLNC\Customer\Customer\Customer\bin\Debug\Customer.exe
+D:\Microsoft SQL studio\Bai Tap\GiaoDien CSDLNC\Customer\Customer\Customer\bin\Debug\Customer.pdb
+D:\Microsoft SQL studio\Bai Tap\GiaoDien CSDLNC\Customer\Customer\Customer\obj\Debug\Customer.csproj.AssemblyReference.cache
+D:\Microsoft SQL studio\Bai Tap\GiaoDien CSDLNC\Customer\Customer\Customer\obj\Debug\Customer.LoginForm.resources
+D:\Microsoft SQL studio\Bai Tap\GiaoDien CSDLNC\Customer\Customer\Customer\obj\Debug\Customer.Properties.Resources.resources
+D:\Microsoft SQL studio\Bai Tap\GiaoDien CSDLNC\Customer\Customer\Customer\obj\Debug\Customer.csproj.GenerateResource.cache
+D:\Microsoft SQL studio\Bai Tap\GiaoDien CSDLNC\Customer\Customer\Customer\obj\Debug\Customer.csproj.CoreCompileInputs.cache
+D:\Microsoft SQL studio\Bai Tap\GiaoDien CSDLNC\Customer\Customer\Customer\obj\Debug\Customer.exe
+D:\Microsoft SQL studio\Bai Tap\GiaoDien CSDLNC\Customer\Customer\Customer\obj\Debug\Customer.pdb
+D:\Microsoft SQL studio\Bai Tap\GiaoDien CSDLNC\Customer\Customer\Customer\obj\Debug\Customer.DangKy_KH.resources
+D:\Microsoft SQL studio\Bai Tap\GiaoDien CSDLNC\Customer\Customer\Customer\obj\Debug\Customer.Home_KH.resources
+D:\Microsoft SQL studio\Bai Tap\GiaoDien CSDLNC\Customer\Customer\Customer\obj\Debug\Customer.GioHang_KH.resources
+D:\Microsoft SQL studio\Bai Tap\GiaoDien CSDLNC\Customer\Customer\Customer\obj\Debug\Customer.ThongTinKH.resources
+D:\Microsoft SQL studio\Bai Tap\GiaoDien CSDLNC\Customer\Customer\Customer\obj\Debug\Customer.YeuThich.resources
+D:\Microsoft SQL studio\Bai Tap\GiaoDien CSDLNC\Customer\Customer\Customer\obj\Debug\Customer.LichSu_MuaHang_KH.resources
+D:\Microsoft SQL studio\Bai Tap\GiaoDien CSDLNC\Customer\Customer\Customer\obj\Debug\Customer.TreEm_KH.resources
